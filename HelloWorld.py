@@ -1,4 +1,2 @@
-first_name = "lisa"
-last_name = "blunt"
-full_name = "{} {}".format(first_name, last_name).title()
-print("{} {}".format(first_name, last_name).title())
+print("\tPython")
+print("Languages:\n\tPython\n\tC\n\tJavaScript")
