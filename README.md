@@ -1,7 +1,9 @@
 # Kyle's Computer
 
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_ed25519_lblunt02
+eval `ssh-agent -s`
+ssh-add ~/.ssh/lisa
+git push origin main
+
 
 git add .
 git commit -m "a comment"

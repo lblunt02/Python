@@ -10,3 +10,6 @@ print(person_name.upper())
 
 print(person_name.title())
 
+
+motorcycles = ['honda', 'yamaha', 'suzuki']
+ 
